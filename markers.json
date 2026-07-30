@@ -1,26 +1,15 @@
-[
-  {
-    "id": "1785205678397",
-    "type": "monster",
-    "name": "Cyclops",
-    "desc": "",
-    "lat": 1218.375,
-    "lng": 1202.375
-  },
-  {
-    "id": "1785205710177",
-    "type": "monster",
-    "name": "Minotaur",
-    "desc": "Zalecana łopata",
-    "lat": 1291.625,
-    "lng": 1184.25
-  },
-  {
-    "id": "1785205728714",
-    "type": "monster",
-    "name": "Elfy",
-    "desc": "",
-    "lat": 1388.0506114691927,
-    "lng": 1232.6638963034488
-  }
-]
+{
+  "items": [
+    {
+      "id": "1785412675026",
+      "name": "keks",
+      "type": "monster",
+      "desc": "letten",
+      "lat": 783.5,
+      "lng": 1011.5,
+      "floor": 0,
+      "hidden": false
+    }
+  ],
+  "articles": []
+}
