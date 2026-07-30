@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "1785330411359",
+      "type": "monster",
+      "name": "Cyclops",
+      "desc": "",
+      "lat": 405.22232443717724,
+      "lng": 1210.6128430727701,
+      "floor": 0,
+      "hidden": false
+    }
+  ],
+  "articles": [
+    {
+      "id": "1785328226375",
+      "category": "guides",
+      "title": "Runewords",
+      "content": "<div style=\"text-align: center;\"><b>Obecnie znane runewordy to:</b></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><font color=\"#4dc775\">Vol, Szu, Zua, Gol, Imr, (damage against Dragons)</font></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><font color=\"#ece522\">Vol, Szu, Zua, Gol, Xar (damage against&nbsp;Animals)</font></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><font color=\"#cc6f05\">Vol, Szu, Zua, Gol, Eli (damage against Minotaurs)</font></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><font color=\"#0ec432\">Vol, Szu, Zua, Gol, Gal (damage against Orcs)</font></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><font color=\"#3bb2ba\">Vol, Szu, Zua, Gol, Ela (damage against Cyclops)</font></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><font color=\"#e20303\">Vol, Szu, Zua, Gol, Hil (damage against Demons)</font></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><font color=\"#543b3b\">Vol, Szu, Zua, Gol, Gil (damage against Undeads)</font></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><font color=\"#ffd2ad\">Vol, Szu, Zua, Gol, Mer (damage against Humans)</font></div><div style=\"text-align: center;\"><br><div><font color=\"#c014ff\">Win Win Hil Hil Hil increase movement speed</font></div><div><font color=\"#c014ff\"><br></font></div><div><font color=\"#c014ff\">Zua Gol Win Hil Hil increase movement speed</font></div></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><font color=\"#ffe014\">Gil, Gil, Sex, Zer Vte increase holy damage</font></div>"
+    },
+    {
+      "id": "1785329018172",
+      "category": "tips",
+      "title": "Start Gry",
+      "content": "Zrobić mnóstwo postaci, żeby zebrać koniczynki i daily loginy,<div>Kupić domek obok depo,</div><div>Wejść szybko na wyverny (profit),</div><div><div><div>Kupić Dragon storm rune, żeby szybko refille robić),</div><div>Zrobić postmana,</div><div>Kupić/wydropić jakąś broń mythic na 1lvl, żeby szybko lvlować postacie na quest z koniczynką,</div><div>Zrobić questy na plecaki u drazena (statystyki), i nekro (więcej golda z potworów),</div><div><br></div><div><br></div></div></div>"
+    }
+  ]
+}
