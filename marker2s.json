@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "id": "1785412675026",
+      "name": "keks",
+      "type": "monster",
+      "desc": "letten",
+      "lat": 783.5,
+      "lng": 1011.5,
+      "floor": 0,
+      "hidden": false
+    }
+  ],
+  "articles": []
+}
